@@ -1,2 +1,2 @@
 # JavaScript-Bubbles
-Files for the p5js bubble programme.
+Bubbles with p5js!
